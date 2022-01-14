@@ -3,6 +3,8 @@ header__logo {
   width: 176px;
   height: 52px;
   color: var(--font-color);
+  padding-top: 28px;
+  padding-left: 48pxh;
 }
 
 @media screen and (max-width: 425px) {
