@@ -1,0 +1,7 @@
+.photo__container {
+  list-style: none;
+  display: grid;
+  display: -moz-grid;
+  display: -ms-grid;
+  grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
+}
