@@ -24,3 +24,7 @@
 @import url('../blocks/intro/__list/intro__list.css');
 @import url('../blocks/intro/__item-description/intro__item-description.css');
 @import url('../blocks/intro/__item-number/intro__item-number.css');
+
+@import url('../blocks/photo/photo.css');
+@import url('../blocks/photo/__container/photo__container.css');
+@import url('../blocks/photo/__item/photo__item.css');

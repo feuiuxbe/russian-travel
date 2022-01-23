@@ -1,3 +1,4 @@
 .photo {
   padding: 92px 48px 0 48px;
+  box-sizing: border-box;
 }
