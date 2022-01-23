@@ -1,0 +1,5 @@
+.places__text-container {
+  grid-area: text-container;
+  display: flex;
+  flex-direction: column;
+}
