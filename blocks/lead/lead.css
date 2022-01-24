@@ -7,12 +7,12 @@
 
 @media screen and (max-width: 1200px) {
   .lead {
-      padding: 48px 48px 0 48px;
+    padding: 48px 48px 0 48px;
   }
 }
 
 @media screen and (max-width: 1023px) {
   .lead {
-      padding: 0;
+    padding: 0;
   }
 }
