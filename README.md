@@ -7,4 +7,4 @@
 HTML (semantic), CSS (BEM)
 
 ### Сcылка на проект
-[https://feuiuxbe.github.io/russian-travel/] (https://feuiuxbe.github.io/russian-travel/)
+https://feuiuxbe.github.io/russian-travel/
