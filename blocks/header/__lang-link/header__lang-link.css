@@ -8,6 +8,7 @@
   margin: 0;
   margin-right: 18px;
   opacity: 1;
+  padding-top: 20px;
 }
 
 .header__lang-link:last-of-type {
@@ -17,12 +18,12 @@
 .header__lang-link:hover {
   opacity: 0.8;
   transition: 0.3s;
-  cursor: pointer;
 }
 
 @media screen and (max-width: 767px) {
   .header__lang-link {
     font-size: 18px;
     line-height: 20px;
+    padding-top: 15px;
   }
 }
